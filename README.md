@@ -78,4 +78,4 @@ php artisan serve
 
 ## Autor
 
-Davi Pereira - [Seu GitHub](https://github.com/davipr30)
+Davi Pereira - [GitHub](https://github.com/davipr30)
